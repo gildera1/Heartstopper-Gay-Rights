@@ -15,9 +15,4 @@ The fifth variable, change in mental health, represents the change in mental hea
 
 The sixth variable, number of times mental health was mentioned, was a quantitative variable measured by the number of times the mental health of a character was mentioned throughout the series. This variable was measured through observing the series and counting each related conversation. The values in this variable follow the structure of a quantitative variable, in that they are not categorically organized and are not subjective, rather objective facts observed through the series. 
 
-This project requires access to the series, “Heartstopper” from Netflix, in order to be able to properly observe and replicate this project. It also requires a complete lack of bias, and a clear understanding of objective decisions of labels within the queer community. 
-
-The sixth variable, number of times mental health was mentioned, was a quantitative variable measured by the number of times the mental health of a character was mentioned throughout the series. This variable was measured through observing the series and counting each related conversation. The values in this variable follow the structure of a quantitative variable, in that they are not categorically organized and are not subjective, rather objective facts observed through the series. 
-
 This project requires access to the series, “Heartstopper” from Netflix, in order to be able to properly observe and replicate this project. It also requires a complete lack of bias, and a clear understanding of objective definitions of labels within the queer community. 
-
